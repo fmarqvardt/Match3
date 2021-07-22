@@ -1,4 +1,8 @@
 # Match3
- Simple match-3 game
+ A simple match-3 game made in Unity.
+
+Modular and somewhat scalable.
+
 ![](match.gif)
+
 ![](match2.gif)
